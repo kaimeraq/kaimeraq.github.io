@@ -1,7 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 #header_wrap {
   position: sticky;
   top: 0;
   z-index: 100;
 }
-
-@import "{{ site.theme }}";
