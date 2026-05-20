@@ -13,6 +13,18 @@ header h2#project_tagline {
   margin-top: 0;
 }
 
+header#nameplate {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+header#nameplate img {
+  width: 100px;
+  max-width: 20%;
+  border-radius: 50%;
+}
+
 footer p.copyright {
   margin-bottom: 0;
 }
