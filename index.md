@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Software Engineer | Tech Art Engineer
+description: Software Engineer | Game Developer
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
